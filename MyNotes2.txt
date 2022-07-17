@@ -1,0 +1,7 @@
+Colors are explained under The Prompt in the README shown at https://github.com/dahlbyk/posh-git/. To summarize:
+
+Cyan means the branch matches its remote
+Green means the branch is ahead of its remote (green light to push)
+Red means the branch is behind its remote
+Yellow means the branch is both ahead of and behind its remote
+The +~-! status represents added/modified/removed/conflicted file count in your index (dark green) and/or working directory (dark red).
