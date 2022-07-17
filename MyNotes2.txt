@@ -1,3 +1,4 @@
+I did at myNote 2
 Colors are explained under The Prompt in the README shown at https://github.com/dahlbyk/posh-git/. To summarize:
 
 Cyan means the branch matches its remote
